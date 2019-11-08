@@ -7,7 +7,12 @@
   <version>20191108</version>
   <name>deegree-ogcschemas</name>
   <packaging>jar</packaging>
-  <description>XML schemas from http://schemas.opengeospatial.net</description>
+  <description>XML schemas from http://schemas.opengeospatial.net - schemas.opengis.net is the official schema repository of the Open Geospatial Consortium</description>
+  <url>http://schemas.opengis.net/README.html</url>
+  <organization>
+    <url>http://www.opengis.net/</url>
+    <name>Open Geospatial Consortium</name>
+  </organization>
   <scm>
     <connection>scm:git:git@github.com:deegree/ogc-schemas.git</connection>
     <developerConnection>scm:git:git@github.com:deegree/ogc-schemas.git</developerConnection>
