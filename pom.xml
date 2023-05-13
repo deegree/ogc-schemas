@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.deegree</groupId>
   <artifactId>deegree-ogcschemas</artifactId>
-  <version>20230512</version>
+  <version>20230513</version>
   <name>deegree-ogcschemas</name>
   <packaging>jar</packaging>
   <description>XML schemas from http://schemas.opengeospatial.net - schemas.opengis.net is the official schema repository of the Open Geospatial Consortium</description>
